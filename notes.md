@@ -9,6 +9,7 @@ notes:
     year: 
     url: Chow's_thm.pdf
     hidden: false
+    
   - author: "Li Yang"
     title: "report for \"Introduction to Topology\""
     month: 
@@ -31,6 +32,7 @@ notes:
   - {% if note.url %} [{{note.title}}]({{note.url}}).
     {% else %} {{note.title}}.
     {% endif %}
+    <br>
     {{note.author}}.<br>
     {% if note.month %}
     {{note.month}}, {{note.year}}.
