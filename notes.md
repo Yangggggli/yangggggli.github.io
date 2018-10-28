@@ -5,23 +5,20 @@ title: Notes
 notes:
   - author: "Li Yang"
     title: "Chow's thm"
-    month: 
-    year: 
+    date: "2018.10.28"
     url: Chow's_thm.pdf
-    hidden: false
-    
-  - author: "Li Yang"
-    title: "report for \"Introduction to Topology\""
-    month: 
-    year: 
-    url: report_for_Introduction_to_Topology.pdf
     hidden: false
 
   - author: "Li Yang"
     title: "李代数上同调"
-    month: 
-    year: 
+    date: "2018.05.03"
     url: 李代数上同调.pdf
+    hidden: false
+
+  - author: "Li Yang"
+    title: "report for \"Introduction to Topology\""
+    date: "2018.02.20"
+    url: report_for_Introduction_to_Topology.pdf
     hidden: false
 ---
 
@@ -33,8 +30,8 @@ notes:
     {% else %} {{note.title}}.
     {% endif %}
     {{note.author}}.
-    {% if note.month %}
-    {{note.month}}, {{note.year}}.
+    {% if note.date %}
+    {{note.date}}.
     {% endif %}
 {% endunless %}
 {% endfor %}
