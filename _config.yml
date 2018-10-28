@@ -1,13 +1,12 @@
-title: Jason Ansel
+title: Homepage of Li Yang
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jasonansel.com
-
+url: 
 # Owner/author information
 owner:
   name:           Li Yang
-  avatar:         kenan.jpg
+  avatar:         http://ww1.sinaimg.cn/large/006xd92jgy1fwobtue86nj30hs0hsmxr.jpg
 #  bio:
   email:        yangli171@mails.ucas.ac.cn  
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
