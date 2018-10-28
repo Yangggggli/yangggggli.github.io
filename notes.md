@@ -32,8 +32,7 @@ notes:
   - {% if note.url %} [{{note.title}}]({{note.url}}).
     {% else %} {{note.title}}.
     {% endif %}
-    <br>
-    {{note.author}}.<br>
+    {{note.author}}.
     {% if note.month %}
     {{note.month}}, {{note.year}}.
     {% endif %}
