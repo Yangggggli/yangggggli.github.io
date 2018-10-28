@@ -31,13 +31,13 @@ links:
   - title: Introduction
     url: /
   - title: Notes
-    url: /Notes/
+    url: /notes/
     external: true
   - title: Publications
     url: /publications/
     external: true
   - title: Teaching
-    url: /Teaching/
+    url: /teaching/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
