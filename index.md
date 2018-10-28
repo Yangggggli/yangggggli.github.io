@@ -14,7 +14,6 @@ I am now a student at [UCAS] (University of Chinese Academy of Sciences). I am a
 
  I've came to the land for less than one year so I have not learnt much, but I am determined to learn through those topics I love and hope to do some interesting results.
 
-email: yangli171@mails.ucas.ac.cn
 
 
 
