@@ -32,10 +32,13 @@ links:
     url: /
   - title: Notes
     url: /Notes/
+    external: true
   - title: Publications
     url: /publications/
+    external: true
   - title: Teaching
     url: /Teaching/
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
