@@ -30,9 +30,7 @@ notes:
     {% else %} {{note.title}}.
     {% endif %}
     {{note.author}}.
-    {% if note.date %}
     {{note.date}}.
-    {% endif %}
 {% endunless %}
 {% endfor %}
 
