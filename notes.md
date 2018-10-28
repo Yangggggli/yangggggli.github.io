@@ -29,8 +29,8 @@ notes:
   - {% if note.url %} [{{note.title}}]({{note.url}}).
     {% else %} {{note.title}}.
     {% endif %}
-    {{note.author}}.
-    {{note.date}}.
+    {{note.author}}.<br>
+    {{note.date}}.<br>
 {% endunless %}
 {% endfor %}
 
