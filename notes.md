@@ -4,6 +4,12 @@ permalink: /notes/index.html
 title: Notes
 notes:
   - author: "Li Yang"
+    title: "Riemann surface1"
+    date: #"2018.10.28"
+    url: Riemann surface1.pdf
+    hidden: false
+
+  - author: "Li Yang"
     title: "Chow's thm"
     date: "2018.10.28"
     url: Chow's_thm.pdf
