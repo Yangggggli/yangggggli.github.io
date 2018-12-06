@@ -7,4 +7,4 @@ title: Teaching
 
 # Teaching
 
-maybe 5(10) years later .
+maybe 5 years later .

@@ -7,7 +7,7 @@ pubs:
 
 # Publications
 
-maybe 5(10) years later .
+maybe 10 years later .
 
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
