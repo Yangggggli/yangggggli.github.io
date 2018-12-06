@@ -29,7 +29,16 @@ def push():
     g.commit('-m "..."')
     rmt = repo.remote()
     print(rmt.pull())
-    # print(rmt.push())
+    while True:
+        try:    
+            res = rmt.push()
+            print(res)
+            break;
+        except git.exc.GitCommandError:
+            print("Something goes wrong.Try again?(y/n)")
+            c = input('enter y or n:')
+            if c is not 'y':
+                break
 
 if __name__ == "__main__":
     print('Hello')
