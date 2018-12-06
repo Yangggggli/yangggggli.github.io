@@ -5,14 +5,14 @@ layout: page
 # Introduction
 
 I am now a student at [UCAS] (University of Chinese Academy of Sciences). I am a beginner in mathematics. My interests lie in pure mathematics, including:
-- algebraic geometry(complex algeraic geometry, Hodge theory, motive, abelian variety) 
-- complex geometry(Riemann surface, Kahler manifold)
+
+- number theory or arithmetic geometry(class field theory, Kronecker's Jugendtraum, elliptic curves, modular form, Galois representation, complex multiplication, cohomological interpretations, Langlands, rigid geometry, Tate conjecture, motive)
+- algebraic geometry(Riemann surface, Kähler manifold, Hodge theory, descent theory, abelian variety, moduli, GIT)
 - symplectic geometry(HMS, microlocalization)
 - geometric representation(Springer theory, D-module, geometric Langlands)
-- algeraic number theory(modular form, Galois representation)
-- basic backgroud in topology and differential geometry
-
- I've came to the land for less than one year so I have not learnt much, but I am determined to learn through those topics I love and hope to do some interesting results.
+- basic backgrounds in analysis, topology and differential geometry
+I’ve came to the land for about just one year so I have not learnt much, but I am determined to learn through those topics I love and hope to reach some interesting results in the future.
+I’m now planning on learning Weil conjecture(Deligne’s 1-st proof first) to receive a better understanding of cohomology, there may be some notes in the future. 
 
 
 
