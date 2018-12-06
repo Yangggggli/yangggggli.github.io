@@ -28,11 +28,14 @@ def push():
     g.add('.')
     g.commit('-m "..."')
     rmt = repo.remote()
-    print(rmt.pull())
+    r = rmt.pull()
+    for i in r:
+        print(i)
     while True:
         try:    
             res = rmt.push()
-            print(res)
+            for i in res:
+                print(i)
             break;
         except git.exc.GitCommandError as e:
             print(e)
