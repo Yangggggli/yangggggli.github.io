@@ -7,7 +7,7 @@ notes:
     title: ""
     date: ""
     url: .pdf
-    hidden: false
+    hidden: true
 
   - author: "Li Yang"
     title: "Notes on Connections on vector bundles"
