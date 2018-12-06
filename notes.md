@@ -10,6 +10,12 @@ notes:
     hidden: true
 
   - author: "Li Yang"
+    title: "unfinished notes on divisors and sheaves of modules"
+    date: "2018.12.5"
+    url: unfinished notes on divisors and sheaves of modules.pdf
+    hidden: false
+
+  - author: "Li Yang"
     title: "Notes on Connections on vector bundles"
     date: "2018.9.27-2018.10.17"
     url: Notes on Connections on vector bundles.pdf
@@ -33,11 +39,7 @@ notes:
     url: Supplements on computations of curvature on Kähler manifold.pdf
     hidden: false
 
-  - author: "Li Yang"
-    title: "unfinished notes on divisors and sheaves of modules"
-    date: "2018.12.5"
-    url: unfinished notes on divisors and sheaves of modules.pdf
-    hidden: false
+
 
   - author: "Li Yang"
     title: "Riemann surface1"
