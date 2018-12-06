@@ -27,13 +27,15 @@ def push():
     g = repo.git
     g.add('.')
     g.commit('-m "..."')
-    g.push()
+    rmt = repo.remote()
+    rmt.pull()
+    rmt.push()
 
 if __name__ == "__main__":
     print('Hello')
     check_list = os.listdir(os.getcwd()+"/notes")
     print('convert json to markdown...')
     json2md("notes.json", "notes.md", check_list)
-    
-    pass
+    print('push...')
+    push()
 
