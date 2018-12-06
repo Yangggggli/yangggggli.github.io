@@ -34,7 +34,8 @@ def push():
             res = rmt.push()
             print(res)
             break;
-        except git.exc.GitCommandError:
+        except git.exc.GitCommandError as e:
+            print(e)
             print("Something goes wrong.Try again?(y/n)")
             c = input('enter y or n:')
             if c is not 'y':
