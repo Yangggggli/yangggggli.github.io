@@ -29,7 +29,7 @@ def push():
     g.commit('-m "..."')
     rmt = repo.remote()
     print(rmt.pull())
-    print(rmt.push())
+    # print(rmt.push())
 
 if __name__ == "__main__":
     print('Hello')
