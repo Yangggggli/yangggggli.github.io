@@ -11,7 +11,7 @@ I am now a student at [UCAS] (University of Chinese Academy of Sciences). I am a
 - symplectic geometry(HMS, microlocalization)
 - geometric representation(Springer theory, D-module, geometric Langlands)
 - basic backgrounds in analysis, topology and differential geometry
-- 
+ 
 I’ve came to the land for about just one year so I have not learnt much, but I am determined to learn through those topics I love and hope to reach some interesting results in the future.
 I’m now planning on learning Weil conjecture(Deligne’s 1-st proof first) to receive a better understanding of cohomology, there may be some notes in the future. 
 

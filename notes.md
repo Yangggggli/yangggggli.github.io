@@ -28,9 +28,9 @@ notes:
     hidden: false
 
   - author: "Li Yang"
-    title: "Notes on Supplements on computations of curvature on Kähler manifold"
+    title: "Supplements on computations of curvature on Kähler manifold"
     date: "2018.11.28-2018.11.30"
-    url: Notes on Supplements on computations of curvature on Kähler manifold.pdf
+    url: Supplements on computations of curvature on Kähler manifold.pdf
     hidden: false
 
   - author: "Li Yang"
